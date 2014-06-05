@@ -15,7 +15,8 @@
   "licenses":
   [
     {
-	"type": "MIT"
+	"type": "MIT",
+	"url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
     }
   ],
   "bugs": "https://github.com/evdiv/typedText/issues",
