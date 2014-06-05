@@ -30,7 +30,7 @@ $('div.text').typedText({
   });
 ```
 #### **Delay**
-integer (default: 500)
+integer (default: 100)
 
 ```javascript
 delay: 100
