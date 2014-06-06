@@ -23,8 +23,9 @@
 
             setTimeout(function() {
 
-                self.$elem.empty().append(self.text.substr(0, self.position));
                 self.position++;
+                self.$elem.empty().append(self.text.substr(0, self.position));
+
 
                 if(self.position < self.text.length) {
 
